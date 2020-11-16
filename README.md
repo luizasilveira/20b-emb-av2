@@ -56,7 +56,7 @@ Mesma funcionalidade da entrega 1 implementando em cima do freertos, com a estru
 
 - Fazer o envio direto do callback do adc para a task_send pela fila `queue_adc`.
 
-![c+.png]
+!()[c+.png]
 
 ### B 
 
@@ -64,7 +64,7 @@ Mesma funcionalidade da entrega 1 implementando em cima do freertos, com a estru
 
 A informação a ser transmitida é composta de uma struct com: ID do botão (indica qual botão) e o status (aperado/liberado)
 
-![b.png]
+!()[b.png]
 
 ### A
 
